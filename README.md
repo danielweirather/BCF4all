@@ -1,6 +1,7 @@
 # BCF4all: BCF to PDF Konverter für openBIM
 
 [![Neueste Version](https://img.shields.io/github/v/release/danielweirather/BCF4all?include_prereleases&label=aktuelle%20Version)](https://github.com/danielweirather/BCF4all/releases/latest)
+
 [![Download](https://img.shields.io/badge/Download-BCF4all_Installer-2E7D8C?style=for-the-badge)](https://github.com/danielweirather/BCF4all/releases/latest)
 
 > **Hinweis:** BCF4all befindet sich derzeit in der **Beta-Phase**. Die Kernfunktionen sind einsatzbereit, es kann aber noch vereinzelt zu kleineren Fehlern kommen. Feedback und Fehlermeldungen sind sehr willkommen, siehe Abschnitt "Kontakt".
