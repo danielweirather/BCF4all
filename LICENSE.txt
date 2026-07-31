@@ -1,0 +1,22 @@
+Nutzungsbedingungen für BCF4all
+
+Copyright (c) 2026 Daniel Weirather. Alle Rechte vorbehalten.
+
+Mit der Installation und Nutzung von BCF4all erklären Sie sich mit den folgenden Bedingungen einverstanden:
+
+1. Nutzung
+BCF4all darf derzeit kostenlos genutzt werden, sowohl privat als auch geschäftlich.
+
+2. Keine Weitergabe
+Eine Weitergabe des Programms (z. B. über andere Websites, Plattformen oder per Dateiaustausch) ist nicht gestattet. Bitte verweisen Sie stattdessen auf die offizielle Quelle: https://github.com/danielweirather/BCF4all
+
+3. Keine Veränderung
+Jegliche Veränderung, Dekompilierung oder Reverse Engineering des Programms ist untersagt. Der Quellcode ist nicht öffentlich einsehbar und bleibt Eigentum des Entwicklers.
+
+4. Keine Gewährleistung
+BCF4all wird kostenlos und ohne jegliche Gewährleistung zur Verfügung gestellt. Für Schäden, die durch die Nutzung des Programms entstehen, wird keine Haftung übernommen.
+
+5. Änderungen der Bedingungen
+Der Entwickler behält sich vor, das Preismodell und die Lizenzbedingungen für zukünftige Versionen von BCF4all zu ändern. Bereits veröffentlichte Versionen bleiben von einer solchen Änderung unberührt und dürfen weiterhin unter den zum Zeitpunkt ihrer Veröffentlichung geltenden Bedingungen genutzt werden.
+
+Bei Fragen zu diesen Bedingungen kontaktieren Sie mich gerne über https://github.com/danielweirather
