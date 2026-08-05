@@ -30,8 +30,9 @@ BCF4all kann nur Informationen darstellen, die tatsächlich in der jeweiligen BC
 
 ## Download & Installation
 
-1. Installer über den Download-Button oben herunterladen
-2. Installer ausführen und den Anweisungen folgen
+1. Download-Button oben anklicken
+2. Unter "Assets" die Installationsdatei (z.B. `BCF4all_Setup_x.x.exe`) herunterladen
+3. Installer ausführen und den Anweisungen folgen
 
 > **Hinweis:** Da BCF4all ohne teures Code-Signing-Zertifikat veröffentlicht wird, zeigt Windows beim ersten Ausführen ggf. die Meldung *"Windows hat Ihren PC geschützt"* (SmartScreen). Das ist normal bei kleinen, unabhängigen Tools: einfach auf **"Weitere Informationen"** und **"Trotzdem ausführen"** klicken.
 
