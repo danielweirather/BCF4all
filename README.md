@@ -1,4 +1,4 @@
-# BCF4all: BCF to PDF Konverter für openBIM
+# BCF4all: BCF zu PDF Konverter für openBIM
 
 [![Download](https://img.shields.io/badge/Download-BCF4all_Installer-2E7D8C?style=for-the-badge)](https://github.com/danielweirather/BCF4all/releases/latest)
 
